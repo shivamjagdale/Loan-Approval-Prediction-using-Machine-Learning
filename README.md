@@ -13,3 +13,4 @@ Here we are using Support Vector Machine as our learning model. 📈🤖
 After we are done with training and testing the data, we will give our own input and let the model predict the outcome. 🧩🔮
 
 Here the model got 81% on training data 📚✅ and 80% on testing data 🧪✅ which is really good. 👍🌟
+If you can't view the code or it shows some error download the file. 
